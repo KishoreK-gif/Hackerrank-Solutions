@@ -1,0 +1,7 @@
+# Publish only the requested text collection and its index.
+/*
+!/.gitignore
+!/README.md
+!/Questions and Solutions/
+/Questions and Solutions/*
+!/Questions and Solutions/*.txt
